@@ -1,0 +1,126 @@
+2025-11-27T18:57:56.247400Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2025-11-27T18:57:56.247911Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole", pattern: "**/*", negated: false }
+2025-11-27T18:57:56.248864Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2025-11-27T18:57:56.248963Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole" }
+2025-11-27T18:57:56.252156Z  INFO scan_sources: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.254585Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\eslint.config.mjs"
+2025-11-27T18:57:56.254699Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\next.config.ts"
+2025-11-27T18:57:56.254901Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\package.json"
+2025-11-27T18:57:56.254958Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\postcss.config.mjs"
+2025-11-27T18:57:56.255047Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\prisma"
+2025-11-27T18:57:56.255171Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\prisma\\schema.prisma"
+2025-11-27T18:57:56.255281Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public"
+2025-11-27T18:57:56.255405Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public\\file.svg"
+2025-11-27T18:57:56.255485Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public\\globe.svg"
+2025-11-27T18:57:56.255680Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public\\next.svg"
+2025-11-27T18:57:56.255747Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public\\vercel.svg"
+2025-11-27T18:57:56.255802Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public\\window.svg"
+2025-11-27T18:57:56.255877Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\README.md"
+2025-11-27T18:57:56.255966Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src"
+2025-11-27T18:57:56.256116Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\@types"
+2025-11-27T18:57:56.256228Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\@types\\next-auth.d.ts"
+2025-11-27T18:57:56.256333Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app"
+2025-11-27T18:57:56.256475Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api"
+2025-11-27T18:57:56.256722Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api\\auth"
+2025-11-27T18:57:56.256874Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api\\auth\\[...nextauth]"
+2025-11-27T18:57:56.256999Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api\\auth\\[...nextauth]\\route.ts"
+2025-11-27T18:57:56.257187Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\dashboard"
+2025-11-27T18:57:56.257304Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\dashboard\\page.tsx"
+2025-11-27T18:57:56.257378Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\globals.css"
+2025-11-27T18:57:56.257435Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\layout.tsx"
+2025-11-27T18:57:56.257486Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\page.tsx"
+2025-11-27T18:57:56.257594Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\assets"
+2025-11-27T18:57:56.257716Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\assets\\hero.svg"
+2025-11-27T18:57:56.257829Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components"
+2025-11-27T18:57:56.257972Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components\\container"
+2025-11-27T18:57:56.258086Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components\\container\\index.tsx"
+2025-11-27T18:57:56.258204Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components\\header"
+2025-11-27T18:57:56.258324Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components\\header\\index.tsx"
+2025-11-27T18:57:56.258556Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\generated"
+2025-11-27T18:57:56.259031Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\lib"
+2025-11-27T18:57:56.259221Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\lib\\auth.ts"
+2025-11-27T18:57:56.259313Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\lib\\prisma.ts"
+2025-11-27T18:57:56.259511Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\providers"
+2025-11-27T18:57:56.259727Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\providers\\auth.tsx"
+2025-11-27T18:57:56.259901Z  INFO scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\tsconfig.json"
+2025-11-27T18:57:56.260134Z  INFO scan_sources: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.260165Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.260174Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.260180Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 23 file(s)
+2025-11-27T18:57:56.261310Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\@types\\next-auth.d.ts"
+2025-11-27T18:57:56.261310Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components\\container\\index.tsx"
+2025-11-27T18:57:56.261606Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public\\file.svg"
+2025-11-27T18:57:56.261501Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\lib\\prisma.ts"
+2025-11-27T18:57:56.261578Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\eslint.config.mjs"
+2025-11-27T18:57:56.261483Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public\\vercel.svg"
+2025-11-27T18:57:56.261567Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public\\globe.svg"
+2025-11-27T18:57:56.261650Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\package.json"
+2025-11-27T18:57:56.261794Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\next.config.ts"
+2025-11-27T18:57:56.261833Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\providers\\auth.tsx"
+2025-11-27T18:57:56.261837Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components\\header\\index.tsx"
+2025-11-27T18:57:56.261755Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api\\auth\\[...nextauth]\\route.ts"
+2025-11-27T18:57:56.261944Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\postcss.config.mjs"
+2025-11-27T18:57:56.261967Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\lib\\auth.ts"
+2025-11-27T18:57:56.261974Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public\\window.svg"
+2025-11-27T18:57:56.261966Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\layout.tsx"
+2025-11-27T18:57:56.262006Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\page.tsx"
+2025-11-27T18:57:56.262019Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\tsconfig.json"
+2025-11-27T18:57:56.262028Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public\\next.svg"
+2025-11-27T18:57:56.262060Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\README.md"
+2025-11-27T18:57:56.262071Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\prisma\\schema.prisma"
+2025-11-27T18:57:56.262162Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\dashboard\\page.tsx"
+2025-11-27T18:57:56.262285Z  INFO tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\assets\\hero.svg"
+2025-11-27T18:57:56.262551Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.262608Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.262618Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.269513Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.269869Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.269945Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.270007Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 1 file(s)
+2025-11-27T18:57:56.270720Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\globals.css"
+2025-11-27T18:57:56.270795Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.270851Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.270882Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.271335Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.271426Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.276062Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.277070Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.277149Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.284883Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\prisma"
+2025-11-27T18:57:56.285513Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public"
+2025-11-27T18:57:56.286845Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src"
+2025-11-27T18:57:56.287681Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\@types"
+2025-11-27T18:57:56.288233Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app"
+2025-11-27T18:57:56.288722Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api"
+2025-11-27T18:57:56.289027Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api\\auth"
+2025-11-27T18:57:56.289388Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api\\auth\\[...nextauth]"
+2025-11-27T18:57:56.290320Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\dashboard"
+2025-11-27T18:57:56.300917Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\assets"
+2025-11-27T18:57:56.302757Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components"
+2025-11-27T18:57:56.305628Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components\\container"
+2025-11-27T18:57:56.308376Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components\\header"
+2025-11-27T18:57:56.312238Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\generated"
+2025-11-27T18:57:56.313658Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\lib"
+2025-11-27T18:57:56.314326Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\providers"
+2025-11-27T18:57:56.315317Z  INFO get_files:scan_sources: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.315898Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.316416Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.316452Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: enter
+2025-11-27T18:57:56.318770Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\prisma"
+2025-11-27T18:57:56.318991Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\public"
+2025-11-27T18:57:56.319346Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src"
+2025-11-27T18:57:56.319497Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\@types"
+2025-11-27T18:57:56.319690Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app"
+2025-11-27T18:57:56.319831Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api"
+2025-11-27T18:57:56.319981Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api\\auth"
+2025-11-27T18:57:56.320131Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\api\\auth\\[...nextauth]"
+2025-11-27T18:57:56.320351Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\app\\dashboard"
+2025-11-27T18:57:56.320640Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\assets"
+2025-11-27T18:57:56.320842Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components"
+2025-11-27T18:57:56.320983Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components\\container"
+2025-11-27T18:57:56.321167Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\components\\header"
+2025-11-27T18:57:56.321375Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\generated"
+2025-11-27T18:57:56.321634Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\lib"
+2025-11-27T18:57:56.321868Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: Discovering "C:\\Users\\kaiol\\OneDrive\\Área de Trabalho\\prog\\devcontrole\\src\\providers"
+2025-11-27T18:57:56.322097Z  INFO get_globs:scan_sources: tailwindcss_oxide::scanner: exit
+2025-11-27T18:57:56.327296Z  INFO get_globs: tailwindcss_oxide::scanner: exit
